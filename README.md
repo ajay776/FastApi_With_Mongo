@@ -15,8 +15,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone  https://github.com/ajay776/FastApi_With_Mongo.git
+   cd FastApi_With_Mongo
    ```
 
 2. **Build and Start Containers**
